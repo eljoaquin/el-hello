@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eljoaquin/el-hello/issues"
   },
-  "homepage": "https://github.com/eljoaquin/el-hello#readme"
+  "homepage": "https://github.com/eljoaquin/el-hello#readme",
+  "engines": {
+    "node": "15.11.0"
+  }
 }
